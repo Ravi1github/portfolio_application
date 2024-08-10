@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b58a05ef.css",
+    "main.js": "/static/js/main.06222acc.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/DSC_5668.JPG": "/static/media/DSC_5668.0b908de06622e02c0f3e.JPG",
+    "static/media/Ravi_Kumar1.pdf": "/static/media/Ravi_Kumar1.2700e932e0aa34502df6.pdf",
+    "static/media/exoense.webp": "/static/media/exoense.fb762c1c0a87a375a527.webp",
+    "static/media/dp.jpg": "/static/media/dp.5c09ba763c9be53c5f54.jpg",
+    "static/media/weatherr.jpg": "/static/media/weatherr.33062bafa0c03cf0fff5.jpg",
+    "index.html": "/index.html",
+    "main.b58a05ef.css.map": "/static/css/main.b58a05ef.css.map",
+    "main.06222acc.js.map": "/static/js/main.06222acc.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b58a05ef.css",
+    "static/js/main.06222acc.js"
+  ]
+}
